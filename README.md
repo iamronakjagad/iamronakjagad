@@ -1,74 +1,47 @@
 <div align="center">
 
-# Hi 👋, I'm Ronak Jagad
+# Ronak Jagad
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Automation+Builder;ReactJS+Developer;Building+Smart+Digital+Solutions;Learning+%E2%86%92+Node.js+%7C+Advanced+React+%7C+AI+Integrations" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+Automation+Builder;ReactJS+%7C+Java+%7C+Python+Developer;Building+Real+World+Projects;Currently+Learning+Node.js+and+Advanced+AI+Workflows" />
 
 </div>
 
----
+## 🚀 About Me
 
-### 🚀 About Me
+💻 Full Stack Developer passionate about building web apps, AI solutions and automation systems.
 
-I'm a developer focused on building modern web applications, AI-powered tools, and business automation systems.
+🌱 Currently learning **Node.js, Advanced React & AI Integrations**
 
-🔹 Currently building AI & Automation workflows with n8n
-
-🔹 Developing web applications using ReactJS, PHP & MySQL
-
-🔹 Exploring Node.js, Advanced React Patterns & AI Integrations
-
-🔹 Passionate about creating solutions that save time and automate repetitive work
-
-🔹 Turning ideas into scalable digital products
+⚡ Building **AI Automation Workflows, Institute Management Systems & Real-World Projects**
 
 ---
 
-### ⚡ Tech Stack
+## 🛠 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,php,mysql,nodejs,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,java,python,c,cpp,php,mysql,nodejs,androidstudio,git,github,gitlab,vscode" />
 </p>
 
----
-
-### 🌟 Current Focus
-
-* 🤖 AI Automation & Workflow Engineering
-* ⚛️ Modern React Development
-* 🌐 Full Stack Web Applications
-* 🔗 API Integrations & AI Tools
-* 🚀 Building Real-World Projects
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 
 ---
 
-### 📌 Featured Projects
+## 🎯 Current Focus
 
-🎓 **AI Scholarship Finder**
-AI-powered platform helping students discover scholarships based on eligibility and profile matching.
-
-🤖 **AI Automation Systems**
-Custom n8n workflows integrated with AI models, APIs, and business processes.
-
-🏫 **Institute Management Solutions**
-Educational tools and management systems designed for training institutes.
+* AI Automation with n8n
+* Full Stack Development
+* API Integrations
+* React Ecosystem
+* Building Production Ready Projects
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect
 
-Portfolio → your-portfolio-link.com
+Portfolio → Your Portfolio Link
 
-LinkedIn → linkedin.com/in/your-profile
+LinkedIn → Your LinkedIn
 
-Email → [your-email@example.com](mailto:your-email@example.com)
-
----
-
-<div align="center">
-
-### 💡 Philosophy
-
-*"Build. Automate. Scale."*
+Email → Your Email
 
 </div>
