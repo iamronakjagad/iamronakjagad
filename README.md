@@ -30,32 +30,6 @@
 
 ---
 
-## 🎯 Current Focus
-
-* 🤖 AI Automation & Workflow Engineering
-* ⚛️ React Ecosystem & Modern Frontend Development
-* 🌐 Full Stack Web Applications
-* 🔗 API Integrations & AI Tools
-* 🚀 Building Production Ready Projects
-
----
-
-## 🌟 Featured Projects
-
-### 🎓 AI Scholarship Finder
-
-AI-powered platform that helps students discover scholarships based on eligibility and profile matching.
-
-### 🤖 AI Automation Workflows
-
-Custom automation systems built using n8n, AI models and third-party APIs.
-
-### 🏫 Institute Management Solutions
-
-Software solutions and management systems developed for educational institutes
-
----
-
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamronakjagad&theme=tokyo-night&hide_border=true" width="100%" />
