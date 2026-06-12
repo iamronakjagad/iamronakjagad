@@ -40,10 +40,6 @@
 
 📁 Portfolio → https://your-portfolio-link.com
 
-💼 LinkedIn → https://linkedin.com/in/your-profile
-
-📧 Email → [your-email@example.com](mailto:your-email@example.com)
-
 ---
 
 <div align="center">
