@@ -1,77 +1,74 @@
-# 👋 Hey, I'm Ronak Jagad
+<div align="center">
 
-🚀 Passionate Full Stack Developer | AI Automation Enthusiast | Tech Educator
+# Hi 👋, I'm Ronak Jagad
 
-I love building modern web applications, AI-powered solutions, and automation workflows that solve real-world problems. Currently exploring AI automation, ReactJS development, and workflow automation using n8n.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Automation+Builder;ReactJS+Developer;Building+Smart+Digital+Solutions;Learning+%E2%86%92+Node.js+%7C+Advanced+React+%7C+AI+Integrations" />
 
----
-
-## 🚀 About Me
-
-* 🎓 Computer & IT Enthusiast
-* 💻 Working with ReactJS, JavaScript, PHP & MySQL
-* 🤖 Building AI-powered projects and automation workflows
-* 🌱 Currently Learning: Advanced ReactJS, Node.js & AI Integrations
-* 📍 Based in India
-* 🎯 Goal: Become a Full Stack Developer & AI Automation Specialist
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+### 🚀 About Me
 
-### Frontend
+I'm a developer focused on building modern web applications, AI-powered tools, and business automation systems.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+🔹 Currently building AI & Automation workflows with n8n
 
-### Backend
+🔹 Developing web applications using ReactJS, PHP & MySQL
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
+🔹 Exploring Node.js, Advanced React Patterns & AI Integrations
 
-### AI & Automation
+🔹 Passionate about creating solutions that save time and automate repetitive work
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge\&logo=openai\&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+🔹 Turning ideas into scalable digital products
 
 ---
 
-## 🌟 Featured Projects
+### ⚡ Tech Stack
 
-### 🎓 AI Scholarship Finder
-
-An AI-powered platform that helps students discover scholarships based on their profile and eligibility.
-
-### 🤖 AI Automation Workflows
-
-Custom automation solutions using n8n, OpenAI, and APIs to automate repetitive business tasks.
-
-### 📚 Computer Training Institute Projects
-
-Web applications and management systems developed for educational institutions.
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,php,mysql,nodejs,git,github,vscode" />
+</p>
 
 ---
 
-## 🌐 Portfolio
+### 🌟 Current Focus
 
-🔗 Portfolio Website: https://your-portfolio-link.com
-
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
-
-💼 LinkedIn: https://linkedin.com/in/your-profile
+* 🤖 AI Automation & Workflow Engineering
+* ⚛️ Modern React Development
+* 🌐 Full Stack Web Applications
+* 🔗 API Integrations & AI Tools
+* 🚀 Building Real-World Projects
 
 ---
 
-### 💡 Developer Quote
+### 📌 Featured Projects
 
-"Code. Automate. Innovate. Repeat."
+🎓 **AI Scholarship Finder**
+AI-powered platform helping students discover scholarships based on eligibility and profile matching.
+
+🤖 **AI Automation Systems**
+Custom n8n workflows integrated with AI models, APIs, and business processes.
+
+🏫 **Institute Management Solutions**
+Educational tools and management systems designed for training institutes.
+
+---
+
+### 🌐 Connect With Me
+
+Portfolio → your-portfolio-link.com
+
+LinkedIn → linkedin.com/in/your-profile
+
+Email → [your-email@example.com](mailto:your-email@example.com)
+
+---
+
+<div align="center">
+
+### 💡 Philosophy
+
+*"Build. Automate. Scale."*
+
+</div>
