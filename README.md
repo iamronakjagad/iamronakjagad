@@ -52,16 +52,7 @@ Custom automation systems built using n8n, AI models and third-party APIs.
 
 ### 🏫 Institute Management Solutions
 
-Software solutions and management systems developed for educational institutes.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=iamronakjagad&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamronakjagad&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+Software solutions and management systems developed for educational institutes
 
 ---
 
