@@ -72,14 +72,6 @@ Web applications and management systems developed for educational institutions.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamronakjagad\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamronakjagad\&layout=compact\&theme=tokyonight)
-
----
-
 ### 💡 Developer Quote
 
 "Code. Automate. Innovate. Repeat."
