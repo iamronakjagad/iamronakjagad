@@ -22,7 +22,7 @@
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,java,python,c,cpp,php,mysql,nodejs,androidstudio,git,github,gitlab,vscode" />
-<img aligh='left' src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img style="float:left;" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
 ---
