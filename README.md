@@ -27,14 +27,47 @@
   <img style="float:left;" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
+
 ---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://ghstats.dev/api/card?username=iamronakjagad&theme=tokyonight"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://streak-stats.demolab.com/?user=iamronakjagad&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub Streak"
+  />
+</p>
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamronakjagad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="180"
+    alt="Top Languages"
+  />
+</p>
+
 ## 📈 Contribution Graph
 
-
-[![Ronak Jagad GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamronakjagad&theme=tokyo-night&hide_border=true&area=true)](https://github.com/iamronakjagad)
-
+<p align="center">
+  <img
+    src="https://ghstats.dev/api/card?username=iamronakjagad&theme=tokyonight"
+    width="100%"
+    alt="GitHub Contribution Statistics"
+  />
+</p>
 
 ---
+
+
 
 ## 🌐 Connect With Me
 
