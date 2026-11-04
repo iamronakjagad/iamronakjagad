@@ -36,7 +36,7 @@
 
 ## 🌐 Connect With Me
 
-📁 Portfolio → https://your-portfolio-link.com](https://ronakjagadportfolio.vercel.app
+📁 Portfolio → https://ronakjagadportfolio.vercel.app
 
 ---
 
