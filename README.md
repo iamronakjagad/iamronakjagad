@@ -31,12 +31,12 @@
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamronakjagad&theme=tokyo-night&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamronakjagad&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
 ---
 
 ## 🌐 Connect With Me
 
-📁 Portfolio → https://your-portfolio-link.com
+📁 Portfolio → https://your-portfolio-link.com](https://ronakjagadportfolio.vercel.app
 
 ---
 
