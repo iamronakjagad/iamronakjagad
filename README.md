@@ -1,15 +1,24 @@
- <div align="center">
+
+<div align="center">
 
 # Hi, I'm Ronak Jagad 👋
 
-### Full Stack Developer | Python Developer | AI Automation Enthusiast
+### MERN Stack Developer | Full Stack Developer | AI Automation Enthusiast
 
-I build modern web applications, backend systems, and practical automation solutions.
+Building modern, responsive and scalable web applications with a focus on real-world solutions.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C2FF?style=for-the-badge&logo=vercel&logoColor=white)](https://ronakjagadportfolio.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/iamronakjagad)
+<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Development;ReactJS+%7C+Node.js+%7C+Python;SQL+%7C+Power+BI+%7C+Analytics;AI+Automation+with+n8n;Building+Real-World+Projects" alt="Typing SVG" />
+<a href="https://ronakjagadportfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_My_Work-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/iamronakjagad">
+  <img src="https://img.shields.io/badge/GitHub-Explore_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React.js+%7C+Node.js+%7C+Express.js;MongoDB+%7C+MySQL+%7C+REST+APIs;AI+Automation+%26+Web+Solutions" alt="Typing SVG" />
 
 </div>
 
@@ -17,73 +26,76 @@ I build modern web applications, backend systems, and practical automation solut
 
 ## 👨‍💻 About Me
 
-- 💻 Full Stack Developer interested in building scalable and user-friendly web applications.
-- ⚙️ Experienced in frontend development, backend fundamentals, databases, and programming.
-- 🤖 Exploring AI-powered workflows and business process automation using n8n.
-- 📊 Interested in data analytics, SQL, Python, and Power BI.
-- 🎯 Focused on building practical projects and continuously improving my development skills.
-- 🌱 Currently improving my skills in Node.js, React, backend development, and AI integrations.
+I'm a Full Stack Developer passionate about building modern web applications, interactive user interfaces, and scalable backend solutions.
+
+- 💻 Focused on MERN Stack and Full Stack Web Development.
+- ⚛️ Building responsive frontend applications using React.js and modern CSS frameworks.
+- 🔧 Developing backend functionality and REST APIs using Node.js and Express.js.
+- 🗄️ Working with MongoDB, MySQL and database-driven applications.
+- 🤖 Exploring AI integrations and workflow automation using n8n.
+- 🚀 Building practical projects that solve real-world problems.
+- 🌱 Continuously learning modern development tools, technologies and best practices.
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Frontend Development**
+### Frontend Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,angular,bootstrap,tailwind" />
+</p>
 
-**Backend & Programming**
+### Backend Development
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,java,flask" />
+</p>
 
-**Database & Data Analytics**
+### Database & Data Management
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-**Tools & Automation**
+### Tools & Technologies
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,vercel" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/n8n-AI%20Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. AI-Based Scholarship Finder
+### 01. AI-Based Scholarship Finder
 
-- AI-powered scholarship discovery application.
-- Built using PHP, MySQL and Gemini API.
-- Focused on helping students discover relevant scholarship opportunities.
+An AI-powered application designed to help students discover relevant scholarship opportunities.
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/iamronakjagad/AI-Based-Scholarship-Finder)
+- PHP and MySQL backend.
+- Gemini API integration.
+- Database-driven scholarship management.
 
-### 2. Calculator Hub
+[![View Repository](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github)](https://github.com/iamronakjagad/AI-Based-Scholarship-Finder)
 
-- Collection of multiple practical online calculators.
-- Focused on functionality, usability, and responsive design.
+### 02. Calculator Hub
 
-### 3. Web Development Projects
+A collection of 9 practical online calculators with a focus on usability and responsive design.
 
-- Responsive websites and frontend applications.
-- Working with React, JavaScript, HTML, CSS and modern UI frameworks.
+- Interactive user interface.
+- Responsive web design.
+- Practical JavaScript functionality.
+
+### 03. Full Stack & Web Development Projects
+
+Developing responsive websites and modern web applications using React.js, JavaScript and backend technologies.
+
+[![Explore Projects](https://img.shields.io/badge/EXPLORE_GITHUB_PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamronakjagad?tab=repositories)
 
 ---
 
@@ -91,23 +103,13 @@ I build modern web applications, backend systems, and practical automation solut
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iamronakjagad&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iamronakjagad&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
 
 <img width="49%" src="https://streak-stats.demolab.com/?user=iamronakjagad&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<br/>
+<br/><br/>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamronakjagad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamronakjagad&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamronakjagad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
 
 </div>
 
@@ -117,11 +119,13 @@ I build modern web applications, backend systems, and practical automation solut
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamronakjagad)
+<a href="https://github.com/iamronakjagad">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=vercel&logoColor=white)](https://ronakjagadportfolio.vercel.app/)
-
-<!-- Add your LinkedIn profile and professional email here -->
+<a href="https://ronakjagadportfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 </div>
 
@@ -131,8 +135,8 @@ I build modern web applications, backend systems, and practical automation solut
 
 ### 💡 My Development Philosophy
 
-**Build. Learn. Automate. Improve. 🚀**
+**Build. Innovate. Automate. Scale. 🚀**
 
-*Turning ideas into practical digital solutions.*
+*Turning ideas into impactful digital experiences.*
 
 </div>
