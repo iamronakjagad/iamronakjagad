@@ -30,11 +30,9 @@
 ---
 ## 📈 Contribution Graph
 
-<p align="center">
-  <a href="https://github.com/iamronakjagad">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamronakjagad&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Ronak Jagad GitHub Activity Graph" />
-  </a>
-</p>
+
+[![Ronak Jagad GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamronakjagad&theme=tokyo-night&hide_border=true&area=true)](https://github.com/iamronakjagad)
+
 
 ---
 
